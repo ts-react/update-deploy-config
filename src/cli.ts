@@ -1,9 +1,4 @@
 #!/usr/bin/env node
+import Command from './command';
 
-import Transform from './index';
-
-const transform = new Transform({
-  rootDir: process.cwd()
-});
-
-transform.run();
+new Command().start();
