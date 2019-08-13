@@ -17,5 +17,3 @@ class MainCommand extends Command {
 }
 
 export default MainCommand;
-
-new MainCommand().start();
