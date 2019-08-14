@@ -1,6 +1,6 @@
 {
   "name": "update-deploy-config",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "main": "lib/cli.js",
   "repository": "git@github.com:ts-react/update-deploy-config.git",
   "author": "wangxingkang <wang_xingkang@qq.com>",
