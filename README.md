@@ -1,6 +1,8 @@
 # update-deploy-config
 修改部署配置的工具，主要供CI使用
 
+**注意:** 功能已迁移至[walrus-plugin-update-config](https://github.com/walrus-plus/walrus-plugin-update-config) 本项目停止维护
+
 > 本项目主要为了配合 [@alitajs/umi-plugin-deploy-config](https://github.com/alitajs/umi-plugin-packages/tree/master/packages/umi-plugin-deploy-config) 插件 解决CI流程自动化修改配置
 
 ## 安装
